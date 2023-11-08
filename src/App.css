@@ -1,0 +1,23 @@
+body{
+  background-color:black;
+
+}
+.searchbar{
+  /* margin: auto; */
+  width: 100vw;
+  text-align: center;
+  height: 5vh;
+  margin-top: 4rem;
+  
+  
+}
+/* .beauty{
+  margin-top: 4rem; 
+  padding: 20px;
+  width: 300px;
+} */
+.wow{
+  width: 400px;
+  height: 300px;
+  margin:auto;
+}
